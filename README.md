@@ -2,40 +2,9 @@
 
 A simple, interactive Rock-Paper-Scissor game built with HTML, CSS, and JavaScript. Play against the computer, track your score, and enjoy a clean, responsive UI!
 
----
-
-## 🕹️ Features
-
-- **Interactive Gameplay:** Click on Rock, Paper, or Scissor to play against the computer.
-- **Live Score Tracking:** See your score, the computer's score, and the number of ties update in real time.
-- **Responsive Design:** Works well on both desktop and mobile devices.
-- **Custom SVG Icons:** Visually appealing icons for each choice.
-- **Clean UI:** Simple and intuitive layout for a smooth user experience.
-
----
-## 📚 Topics Covered
-
-- **HTML Structure:** Building a semantic and accessible game interface using HTML.
-- **CSS Styling:** Designing a responsive and visually appealing layout with custom styles.
-- **JavaScript Fundamentals:** Implementing game logic, handling user input, and updating the DOM dynamically.
-- **Event Handling:** Using JavaScript to respond to user actions (click events).
-- **Randomization:** Generating random choices for the computer opponent.
-- **Score Tracking:** Keeping and displaying scores for the user, computer, and ties.
-- **SVG Integration:** Using SVG icons for game options.
-- **Project Organization:** Structuring files and folders for clarity and maintainability.
 
 ---
 
-## 📂 Project Structure
-
-'''📂 Rock-Paper-Scissor/ │
-  ├── css/ │ ├── common.css │ └── rockPaperScissor.css │
-  ├── docs/ │ ├── icon-paper.svg │ ├── icon-rock.svg │ └── icon-scissors.svg │ 
-  ├── html/ │ └── rockPaperScissor.html │ 
-  ├── js/ │ └── rockPaperScissor.js │
-  └── README.md
-  '''
----
 # How to Play Rock-Paper-Scissor
 
 Welcome to the Rock-Paper-Scissor game! Follow these simple steps to start playing:
@@ -72,3 +41,69 @@ Welcome to the Rock-Paper-Scissor game! Follow these simple steps to start playi
 ---
 
 Enjoy the game!
+
+---
+
+## 🕹️ Features
+
+- **Interactive Gameplay:** Click on Rock, Paper, or Scissor to play against the computer.
+- **Live Score Tracking:** See your score, the computer's score, and the number of ties update in real time.
+- **Responsive Design:** Works well on both desktop and mobile devices.
+- **Custom SVG Icons:** Visually appealing icons for each choice.
+- **Clean UI:** Simple and intuitive layout for a smooth user experience.
+
+---
+## 📚 Topics Covered
+
+- **HTML Structure:** Building a semantic and accessible game interface using HTML.
+- **CSS Styling:** Designing a responsive and visually appealing layout with custom styles.
+- **JavaScript Fundamentals:** Implementing game logic, handling user input, and updating the DOM dynamically.
+- **Event Handling:** Using JavaScript to respond to user actions (click events).
+- **Randomization:** Generating random choices for the computer opponent.
+- **Score Tracking:** Keeping and displaying scores for the user, computer, and ties.
+- **SVG Integration:** Using SVG icons for game options.
+- **Project Organization:** Structuring files and folders for clarity and maintainability.
+
+---
+
+## 📂 Project Structure
+```
+Rock-Paper-Scissors/
+├── css/
+│   ├── common.css
+│   └── rockPaperScissor.css
+├── docs/
+│   ├── icon-paper.svg
+│   ├── icon-rock.svg
+│   └── icon-scissors.svg
+├── html/
+│   └── rockPaperScissor.html
+├── js/
+│   └── rockPaperScissor.js
+└── README.md
+```
+  
+- **css/**: Contains stylesheets for the game.
+  - `common.css`: Common styles used across the project.
+  - `rockPaperScissor.css`: Specific styles for the Rock-Paper-Scissors game.
+  
+- **docs/**: Contains icon files for the game.
+  - `icon-paper.svg`: Icon for Paper.
+  - `icon-rock.svg`: Icon for Rock.
+  - `icon-scissors.svg`: Icon for Scissors.
+
+- **html/**: Contains the main HTML file for the game.
+  - `rockPaperScissor.html`: The entry point for the game.
+
+- **js/**: Contains the JavaScript file for game logic.
+  - `rockPaperScissor.js`: The script that handles game functionality.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
+
+## License
+
+This project is for educational and personal use. No warranty provided.
+
+
