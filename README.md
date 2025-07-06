@@ -13,6 +13,18 @@ A simple, interactive Rock-Paper-Scissor game built with HTML, CSS, and JavaScri
 - **Clean UI:** Simple and intuitive layout for a smooth user experience.
 
 ---
+## 📚 Topics Covered
+
+- **HTML Structure:** Building a semantic and accessible game interface using HTML.
+- **CSS Styling:** Designing a responsive and visually appealing layout with custom styles.
+- **JavaScript Fundamentals:** Implementing game logic, handling user input, and updating the DOM dynamically.
+- **Event Handling:** Using JavaScript to respond to user actions (click events).
+- **Randomization:** Generating random choices for the computer opponent.
+- **Score Tracking:** Keeping and displaying scores for the user, computer, and ties.
+- **SVG Integration:** Using SVG icons for game options.
+- **Project Organization:** Structuring files and folders for clarity and maintainability.
+
+---
 
 ## 📂 Project Structure
 
