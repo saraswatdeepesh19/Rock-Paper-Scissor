@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="50.362mm" height="15.321mm" version="1.1" viewBox="0 0 50.362 15.321" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="filter2" x="-.023895" y="-.11098" width="1.0478" height="1.222" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="1.497106"/>
+  </filter>
+ </defs>
+ <g transform="translate(-17.251 -23.482)">
+  <text transform="matrix(.31965 0 0 .38729 9.1964 -2.5767)" x="26.381447" y="102.64488" fill="#808080" filter="url(#filter2)" font-size="42.914px" stroke-width="3.5762" style="mix-blend-mode:normal" xml:space="preserve"><tspan x="26.381447" y="102.64488" fill="#808080" stroke-width="3.5762">GAMES</tspan></text>
+  <text transform="scale(.94234 1.0612)" x="18.051455" y="34.407459" fill="#ffffff" font-size="14.427px" stroke-width="1.2023" xml:space="preserve"><tspan x="18.051455" y="34.407459" fill="#ffffff" stroke-width="1.2023">GAMES</tspan></text>
+ </g>
+</svg>

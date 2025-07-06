@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rock Paper Scissor</title>
+    <link rel="stylesheet" href="../css/common.css" />
+    <link rel="stylesheet" href="../css/rockPaperScissor.css" />
+    <script src="../js/rockPaperScissor.js" defer></script>
+  </head>
+  <body class="body-container">
+    <header class="header-container">
+      <div><h1>ROCK-PAPER-SCISSOR</h1></div>
+    </header>
+    <main class="rps-container">
+      <div class="game-container">
+        <div class="game-header">
+          <h2>Choose Your Weapon</h2>
+        </div>
+        <div class="game-options">
+          <div class="game-button-rock">
+            <div id="rock" class="rps-image-container">
+              <img
+                class="rps-image"
+                src="../docs/icon-rock.svg"
+                alt="Rock Image"
+              />
+            </div>
+          </div>
+          <div class="game-button-paper">
+            <div id="paper" class="rps-image-container">
+              <img
+                class="rps-image"
+                src="../docs/icon-paper.svg"
+                alt="Rock Image"
+              />
+            </div>
+          </div>
+          <div class="game-button-scissor">
+            <div id="scissor" class="rps-image-container">
+              <img
+                class="rps-image"
+                src="../docs/icon-scissors.svg"
+                alt="Rock Image"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="result-container">
+          <h2 class="result-text" id="result">Let's Play Rock paper Scissor</h2>
+        </div>
+        <div
+          class="score-container"
+          style="display: flex; gap: 40px; margin-bottom: 20px"
+        >
+          <div><strong>You:</strong> <span id="user-score">0</span></div>
+          <div>
+            <strong>Computer:</strong> <span id="computer-score">0</span>
+          </div>
+          <div>
+            <strong>Tie:</strong>
+            <span id="tie-score">0</span>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer class="footer-container">
+      This Code Belongs to Deepesh Saraswat
+    </footer>
+  </body>
+</html>
