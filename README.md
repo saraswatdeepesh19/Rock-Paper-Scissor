@@ -2,6 +2,8 @@
 
 A simple, interactive Rock-Paper-Scissor game built with HTML, CSS, and JavaScript. Play against the computer, track your score, and enjoy a clean, responsive UI!
 
+![image](https://github.com/user-attachments/assets/8f501a8d-0519-4a47-8ded-1f6f146288c2)  ![image](https://github.com/user-attachments/assets/211da64c-a798-4d39-9590-cd706226f624)
+
 
 ---
 
