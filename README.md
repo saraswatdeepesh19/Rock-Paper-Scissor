@@ -77,12 +77,11 @@ Rock-Paper-Scissors/
 ├── docs/
 │   ├── icon-paper.svg
 │   ├── icon-rock.svg
-│   └── icon-scissors.svg
-├── html/
-│   └── rockPaperScissor.html
+│   └── icon-scissors.svg    
 ├── js/
 │   └── rockPaperScissor.js
 └── README.md
+└── index .html
 ```
   
 - **css/**: Contains stylesheets for the game.
@@ -94,8 +93,8 @@ Rock-Paper-Scissors/
   - `icon-rock.svg`: Icon for Rock.
   - `icon-scissors.svg`: Icon for Scissors.
 
-- **html/**: Contains the main HTML file for the game.
-  - `rockPaperScissor.html`: The entry point for the game.
+- **/**: Contains the main HTML file for the game.
+  - `index.html`: The entry point for the game.
 
 - **js/**: Contains the JavaScript file for game logic.
   - `rockPaperScissor.js`: The script that handles game functionality.
