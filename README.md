@@ -7,7 +7,7 @@ A simple, interactive Rock-Paper-Scissor game built with HTML, CSS, and JavaScri
 
 ---
 
-# How to Play Rock-Paper-Scissor
+# How to Play Rock-Paper-Scissor 
 
 Welcome to the Rock-Paper-Scissor game! Follow these simple steps to start playing:
 
