@@ -82,6 +82,7 @@ Rock-Paper-Scissors/
 │   └── rockPaperScissor.js
 └── README.md
 └── index .html
+
 ```
   
 - **css/**: Contains stylesheets for the game.
